@@ -29,7 +29,7 @@ The goal of the project is to create a navigation bar that opens and closes with
 - Grab the target elements in the JS file.
 - Apply an event listener to the button that will toggle the active class, initiating a variety of transitions:
     * One for the icon rotation.
-    * one for the rotation and opacity of links.
+    * One for the rotation and opacity of links.
     * One for the container width.
 
 ### Continued development
